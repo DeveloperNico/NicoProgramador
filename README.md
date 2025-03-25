@@ -9,7 +9,7 @@
 
 <br>
 
-![Nico GitHub stats](https://github-readme-stats.vercel.app/api?username=NicoProgramador&show_icons=true&theme=dark)
+![Nico GitHub stats](https://github-readme-stats.vercel.app/api?username=DeveloperNico&show_icons=true&theme=dark)
 
 <br>
 
